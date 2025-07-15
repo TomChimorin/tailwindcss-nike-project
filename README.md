@@ -25,7 +25,7 @@ The project is fully responsive and styled using Tailwind CSS utility classes.
 ## Concepts Learned
 
 <details>
-<summary>Click to expand</summary>
+<summary>Concepts</summary>
 
 - Building React apps in VSCode  
 - Tailwind CSS fundamentals: flexbox, margin & padding, colors, borders, grids, positioning, centering  
