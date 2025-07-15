@@ -2,7 +2,7 @@
 
 A responsive Nike store project built using React and Tailwind CSS, featuring various sections such as popular products, services, reviews, special offers, quality highlights, a hero section, and footer. This project was built following JavaScript Mastery's **Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website**  
 (uploaded Aug 18, 2023)  
-[YouTube Link](https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery)
+[Watch the Video HERE](https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=JavaScriptMastery)
 
 ---
 
