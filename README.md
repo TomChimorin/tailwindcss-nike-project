@@ -40,7 +40,7 @@ The project is fully responsive and styled using Tailwind CSS utility classes.
 
 ## Deployment
 
-This project is deployed on **Vercel**. You can visit the live site [here](YOUR_DEPLOYED_SITE_LINK).
+This project is deployed on **Vercel**. You can visit the live site [here](https://tailwindcss-nike-project.vercel.app/).
 
 ---
 
@@ -64,4 +64,4 @@ This project is deployed on **Vercel**. You can visit the live site [here](YOUR_
   ```bash
    npm run dev
   ```
-5. Open the deployed app in your browser at:
+5. Open the deployed app in your browser at: https://tailwindcss-nike-project.vercel.app/
