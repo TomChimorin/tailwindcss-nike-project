@@ -6,6 +6,9 @@ Watch the video [HERE](https://www.youtube.com/watch?v=tS7upsfuxmo&ab_channel=Ja
 
 ---
 
+<img width="1803" height="912" alt="image" src="https://github.com/user-attachments/assets/7b6cb761-44ef-493d-b3a0-6225cb090208" />
+
+
 ## Description
 
 This is a Tailwind CSS project built with React and PostCSS. It showcases a Nike store website with multiple components including:
